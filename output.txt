@@ -1,0 +1,54 @@
+*** Agency creation ***
+Ticket price can't be negative. It is set to 0.
+Agency name: NASA, Total cash: 20000, Ticket Price: 0
+Next Missions:
+No missions available.
+Completed Missions:
+No missions completed before.
+Agency name: NASA, Total cash: 20000, Ticket Price: 10000
+Next Missions:
+No missions available.
+Completed Missions:
+No missions completed before.
+No available mission to execute!
+
+*** Astronaut creation ***
+Number of missions that astronaut completed can't be negative. It is set to 0.
+
+*** Passenger creation ***
+
+*** Moon mission creation ***
+
+*** Venus mission creation ***
+Given name does not satisfy the mission naming convention. Please set a new name!
+Name of the mission: AA-00
+Passenger Alperen Kantarcı does not have a valid ticket!
+
+*** Mission creation finished ***
+Agency name: NASA, Total cash: 20000, Ticket Price: 10000
+Next Missions:
+Mission number: 1 Mission name: MN-01 Cost: 5000
+Mission number: 2 Mission name: VS-01 Cost: 35000
+Completed Missions:
+No missions completed before.
+
+*** Lift off ***
+MISSION MN-01 SUCCESSFUL!
+Astronaut Neil Armstrong successfully completed 4 missions.
+Astronaut Buzz Aldrin successfully completed 1 missions.
+Astronaut Sally Ride successfully completed 1 missions.
+Agency name: NASA, Total cash: 45000, Ticket Price: 10000
+Next Missions:
+Mission number: 2 Mission name: VS-01 Cost: 35000
+Completed Missions:
+Mission number: 1 Mission name: MN-01 Cost: 5000
+
+*** Lift off ***
+MISSION VS-01 FAILED!
+Agency reschedules the mission.
+Agency name: NASA, Total cash: 10000, Ticket Price: 10000
+Next Missions:
+Mission number: 2 Mission name: VS-01 Cost: 35000
+Completed Missions:
+Mission number: 1 Mission name: MN-01 Cost: 5000
+
